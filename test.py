@@ -8,7 +8,7 @@ from utils import load_data
 
 # We create a db for our user
 db = ChromaDBManager()
-llm = OpenAI(api_key= "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", model="gpt-4o")
+llm = OpenAI(api_key= "<your key>", model="gpt-4o")
 
 # loading the dummy data into vector db
 # load_data("data/grammar.json", db)
