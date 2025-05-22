@@ -1,4 +1,4 @@
-# Stimuler RecSys Assignment
+# Dynamic Recommender System for on-the-fly recommendations
 
 Deepak C Nayak <br>
 AI Junior, NITK, Surathkal <br>
