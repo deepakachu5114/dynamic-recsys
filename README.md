@@ -15,7 +15,7 @@ Sample outputs
 
 
 # Assumptions (and sensible guesses)
-1. Fluency is something the user develops over time by speaking constantly. The best practice for this would be make the user read out text in a guided manner (Like in the learn section of stimuler, where the user reads out something and the words turn green as the user is reading out.)
+1. Fluency is something the user develops over time by speaking constantly. The best practice for this would be make the user read out text in a guided manner.
 2. Vocabulary, is also something that comes with time, the user is more likely to learn a word when we show them how and where to use it
 3. Pronunciation can be practised by repeating the mispronounced words.
 4. Grammar mistakes are the best data source we can have since many utterances, albeit being about completely different topics, can have a grammatical error in common.
@@ -125,7 +125,7 @@ Personally I feel the second approach is better because we are not limited by th
 ### Putting it all together:
 
 The whole idea can be represented in a block diagram. We still have some things to cover, but the idea so far is:
-![Block diagram of the proposed algorithm](assets/stimuler_block_diagram.png)
+![Block diagram of the proposed algorithm](assets/_block_diagram.png)
 ---
 # Diving deeper
 
