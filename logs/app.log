@@ -1,0 +1,700 @@
+2024-09-30 04:33:17,240 - logger_config - INFO - Retrieved 582 old utterances (test.py:30)
+2024-09-30 04:33:56,316 - logger_config - INFO - Retrieved 582 old utterances (test.py:30)
+2024-09-30 04:34:30,753 - logger_config - INFO - Retrieved 582 old utterances (test.py:30)
+2024-09-30 04:37:37,492 - logger_config - INFO - Retrieved 582 old utterances (test.py:30)
+2024-09-30 04:38:39,305 - logger_config - INFO - Retrieved 582 old utterances (test.py:30)
+2024-09-30 04:39:38,088 - logger_config - INFO - Retrieved 582 old utterances (test.py:30)
+2024-09-30 04:40:52,066 - logger_config - INFO - Retrieved 582 old utterances (test.py:30)
+2024-09-30 04:42:00,486 - logger_config - INFO - Retrieved 512 old utterances (test.py:30)
+2024-09-30 04:42:32,250 - logger_config - INFO - Retrieved 0 old utterances (test.py:30)
+2024-09-30 04:43:53,054 - logger_config - INFO - Retrieved 0 old utterances (test.py:30)
+2024-09-30 04:44:55,894 - logger_config - INFO - Retrieved 582 old utterances (test.py:30)
+2024-09-30 04:47:06,373 - logger_config - INFO - Retrieved 582 old utterances (test.py:30)
+2024-09-30 04:52:44,499 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 04:52:44,517 - logger_config - INFO - Query results for 'Incorrect use of articles': Grammar mistake: Incorrect use of prepositions in context
+Original Text: She relies in her friends.
+Corrected Text: She relies on her friends.
+Involved Words: ['in', 'on']
+Vocabulary Suggestion: {'relies': 'depends', 'friends': 'companions'}
+Mispronounced Words: ['friends', 'relies']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-09-30 04:52:44,517 - logger_config - INFO - Retrieved 582 old utterances (test.py:35)
+2024-09-30 04:52:46,263 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 04:52:46,266 - logger_config - INFO - Document with ID 15 successfully deleted. (dbmanager.py:63)
+2024-09-30 04:52:46,268 - logger_config - INFO - Document with ID 13 successfully deleted. (dbmanager.py:63)
+2024-09-30 04:59:18,278 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 04:59:18,295 - logger_config - INFO - Query results for 'Incorrect use of articles': Grammar mistake: Incorrect use of prepositions in context
+Original Text: She relies in her friends.
+Corrected Text: She relies on her friends.
+Involved Words: ['in', 'on']
+Vocabulary Suggestion: {'relies': 'depends', 'friends': 'companions'}
+Mispronounced Words: ['friends', 'relies']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-09-30 04:59:18,295 - logger_config - INFO - Retrieved 582 old utterances (test.py:35)
+2024-09-30 04:59:20,049 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 04:59:20,051 - logger_config - INFO - Document with ID 15 successfully deleted. (dbmanager.py:63)
+2024-09-30 04:59:20,053 - logger_config - INFO - Document with ID 13 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:00:49,980 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:00:49,999 - logger_config - INFO - Query results for 'Incorrect use of articles': Grammar mistake: Incorrect use of articles
+Original Text: She is an best friend.
+Corrected Text: She is a best friend.
+Involved Words: ['an', 'a']
+Vocabulary Suggestion: {'best': 'closest', 'friend': 'companion'}
+Mispronounced Words: ['best', 'friend']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: She relies in her friends.
+Corrected Text: She relies on her friends.
+Involved Words: ['in', 'on']
+Vocabulary Suggestion: {'relies': 'depends', 'friends': 'companions'}
+Mispronounced Words: ['friends', 'relies']
+
+ (dbmanager.py:46)
+2024-09-30 05:00:49,999 - logger_config - INFO - Retrieved 540 old utterances (test.py:35)
+2024-09-30 05:00:52,071 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:00:52,074 - logger_config - INFO - Document with ID 898a8620-8486-43fa-95cf-79b3eac2852d successfully deleted. (dbmanager.py:63)
+2024-09-30 05:00:52,076 - logger_config - INFO - Document with ID 15 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:05:33,978 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:05:33,997 - logger_config - INFO - Query results for 'Subject-verb agreement error': Grammar mistake: Mismatch between subject and verb number
+Original Text: The group of students are here.
+Corrected Text: The group of students is here.
+Involved Words: ['are', 'is']
+Vocabulary Suggestion: {'group': 'team', 'students': 'learners'}
+Mispronounced Words: ['students']
+
+Grammar mistake: Mismatch between subject and verb number
+Original Text: My cat and dog runs every morning.
+Corrected Text: My cat and dog run every morning.
+Involved Words: ['runs', 'run']
+Vocabulary Suggestion: {'runs': 'jogs', 'morning': 'dawn'}
+Mispronounced Words: ['morning']
+
+ (dbmanager.py:46)
+2024-09-30 05:05:33,997 - logger_config - INFO - Retrieved 565 old utterances (test.py:35)
+2024-09-30 05:05:35,626 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:05:35,627 - logger_config - INFO - Document with ID 7 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:05:35,629 - logger_config - INFO - Document with ID 8 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:09:18,207 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:09:18,226 - logger_config - INFO - Query results for 'Subject-verb agreement error': Grammar mistake: Subject-verb agreement error
+Original Text: The team are playing well.
+Corrected Text: The team is playing well.
+Involved Words: ['are', 'is']
+Vocabulary Suggestion: {'team': 'squad', 'playing': 'performing'}
+Mispronounced Words: ['playing']
+
+Grammar mistake: Mismatch between subject and verb number
+Original Text: My cat and dog runs every morning.
+Corrected Text: My cat and dog run every morning.
+Involved Words: ['runs', 'run']
+Vocabulary Suggestion: {'runs': 'jogs', 'morning': 'dawn'}
+Mispronounced Words: ['morning']
+
+ (dbmanager.py:46)
+2024-09-30 05:09:18,226 - logger_config - INFO - Retrieved 543 old utterances (test.py:35)
+2024-09-30 05:09:20,465 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:09:20,469 - logger_config - INFO - Document with ID 6f8ccd95-a5cb-4455-8cc2-281daec96fb2 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:09:20,470 - logger_config - INFO - Document with ID 8 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:09:57,559 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:09:57,579 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect use of prepositions in context
+Original Text: She is married with a doctor.
+Corrected Text: She is married to a doctor.
+Involved Words: ['with', 'to']
+Vocabulary Suggestion: {'married': 'wed', 'doctor': 'physician'}
+Mispronounced Words: ['doctor']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-09-30 05:09:57,579 - logger_config - INFO - Retrieved 572 old utterances (test.py:35)
+2024-09-30 05:09:59,612 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:09:59,616 - logger_config - INFO - Document with ID 12 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:09:59,619 - logger_config - INFO - Document with ID 13 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:12:42,216 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:12:42,235 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-09-30 05:12:42,235 - logger_config - INFO - Retrieved 581 old utterances (test.py:35)
+2024-09-30 05:12:44,202 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:12:44,207 - logger_config - INFO - Document with ID fe25a40a-ffbc-4dbc-aa13-03ff196d1daf successfully deleted. (dbmanager.py:63)
+2024-09-30 05:12:44,209 - logger_config - INFO - Document with ID 13 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:15:17,665 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:15:17,682 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-09-30 05:15:17,682 - logger_config - INFO - Retrieved 581 old utterances (test.py:35)
+2024-09-30 05:15:19,537 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:15:19,539 - logger_config - INFO - Document with ID 3919e947-4f5c-463b-ab68-0d9be24b7cc0 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:15:19,541 - logger_config - INFO - Document with ID 13 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:25:43,865 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:25:43,887 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-09-30 05:25:43,887 - logger_config - INFO - Retrieved 581 old utterances (generator.py:33)
+2024-09-30 05:25:57,366 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:25:57,384 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-09-30 05:25:57,384 - logger_config - INFO - Retrieved 581 old utterances (generator.py:33)
+2024-09-30 05:25:59,405 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:25:59,406 - logger_config - INFO - Document with ID ce3e3b11-3417-4b8b-9b3c-7c30ab5bed8f successfully deleted. (dbmanager.py:63)
+2024-09-30 05:25:59,410 - logger_config - INFO - Document with ID 13 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:28:44,659 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:28:44,679 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-09-30 05:28:44,679 - logger_config - INFO - Retrieved 581 old utterances (generator.py:31)
+2024-09-30 05:28:46,822 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:28:46,824 - logger_config - INFO - Document with ID ebedf6b9-e477-44c2-a6b9-51076161768b successfully deleted. (dbmanager.py:63)
+2024-09-30 05:28:46,826 - logger_config - INFO - Document with ID 13 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:30:37,355 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:30:37,376 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-09-30 05:30:37,376 - logger_config - INFO - Retrieved old utterances: Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (generator.py:31)
+2024-09-30 05:30:39,455 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:30:39,457 - logger_config - INFO - Document with ID ab94dcf1-c768-4b4d-a755-1693e9436735 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:30:39,459 - logger_config - INFO - Document with ID 13 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:30:50,604 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:30:50,623 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-09-30 05:30:50,623 - logger_config - INFO - Retrieved old utterances: Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (generator.py:31)
+2024-09-30 05:30:52,464 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:30:52,466 - logger_config - INFO - Document with ID 8930d504-0bfb-4eea-b6d3-04178d71bdff successfully deleted. (dbmanager.py:63)
+2024-09-30 05:30:52,474 - logger_config - INFO - Document with ID 13 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:31:07,570 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:31:07,593 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-09-30 05:31:07,594 - logger_config - INFO - Retrieved old utterances: Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (generator.py:31)
+2024-09-30 05:31:10,935 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:31:10,937 - logger_config - INFO - Document with ID f9023fff-e22e-4e39-8d16-784ccb4a4131 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:31:10,938 - logger_config - INFO - Document with ID 13 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:31:20,675 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:31:20,693 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-09-30 05:31:20,693 - logger_config - INFO - Retrieved old utterances: Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (generator.py:31)
+2024-09-30 05:31:22,601 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:31:22,605 - logger_config - INFO - Document with ID 18fecbdd-9b3a-4f56-be97-d77651576737 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:31:22,610 - logger_config - INFO - Document with ID 13 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:33:09,458 - logger_config - INFO - Document with original text 'I didn't watch any movie, bro.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,477 - logger_config - INFO - Document with original text 'He didn't find any solution.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,498 - logger_config - INFO - Document with original text 'She couldn't see any star.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,515 - logger_config - INFO - Document with original text 'I haven't watched any TV show.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,533 - logger_config - INFO - Document with original text 'We didn't make any decision.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,551 - logger_config - INFO - Document with original text 'They didn't attend any meeting.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,574 - logger_config - INFO - Document with original text 'The group of students are here.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,591 - logger_config - INFO - Document with original text 'My cat and dog runs every morning.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,609 - logger_config - INFO - Document with original text 'Each of the answers were correct.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,627 - logger_config - INFO - Document with original text 'The list of items were on the table.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,646 - logger_config - INFO - Document with original text 'Neither of the books have been read.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,664 - logger_config - INFO - Document with original text 'She is married with a doctor.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,681 - logger_config - INFO - Document with original text 'We are interested for the project.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,699 - logger_config - INFO - Document with original text 'He is good in math.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,718 - logger_config - INFO - Document with original text 'She relies in her friends.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,736 - logger_config - INFO - Document with original text 'They are dependent from external help.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,754 - logger_config - INFO - Document with original text 'She has went to the store.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,772 - logger_config - INFO - Document with original text 'He had ate earlier.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,790 - logger_config - INFO - Document with original text 'They seen the movie last week.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,808 - logger_config - INFO - Document with original text 'We choose the best option yesterday.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,826 - logger_config - INFO - Document with original text 'You should have went there.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:09,843 - logger_config - INFO - Query results for 'Incorrect preposition usage':  (dbmanager.py:57)
+2024-09-30 05:33:09,844 - logger_config - INFO - Retrieved old utterances:  (generator.py:31)
+2024-09-30 05:33:09,844 - logger_config - INFO - Cold start, creating exercise without any context from the database (generator.py:35)
+2024-09-30 05:33:11,742 - logger_config - INFO - Document with original text 'I'm excited for go to the party.' already exists. Skipping insertion. (dbmanager.py:23)
+2024-09-30 05:33:57,608 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:33:57,627 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect use of prepositions in context
+Original Text: She is married with a doctor.
+Corrected Text: She is married to a doctor.
+Involved Words: ['with', 'to']
+Vocabulary Suggestion: {'married': 'wed', 'doctor': 'physician'}
+Mispronounced Words: ['doctor']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-09-30 05:33:57,627 - logger_config - INFO - Retrieved old utterances: Grammar mistake: Incorrect use of prepositions in context
+Original Text: She is married with a doctor.
+Corrected Text: She is married to a doctor.
+Involved Words: ['with', 'to']
+Vocabulary Suggestion: {'married': 'wed', 'doctor': 'physician'}
+Mispronounced Words: ['doctor']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (generator.py:31)
+2024-09-30 05:33:59,664 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:33:59,669 - logger_config - INFO - Document with ID 12 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:33:59,670 - logger_config - INFO - Document with ID 13 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:35:23,725 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:35:23,743 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-09-30 05:35:26,167 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:35:26,172 - logger_config - INFO - Document with ID 3e310225-4431-4efe-a0b4-da92fcaa3ac6 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:35:26,174 - logger_config - INFO - Document with ID 13 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:41:52,930 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:41:52,930 - logger_config - INFO - Data successfully loaded from data/grammar.json and inserted into the collection: mistakes_db (utils.py:20)
+2024-09-30 05:41:52,950 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect use of prepositions in context
+Original Text: She is married with a doctor.
+Corrected Text: She is married to a doctor.
+Involved Words: ['with', 'to']
+Vocabulary Suggestion: {'married': 'wed', 'doctor': 'physician'}
+Mispronounced Words: ['doctor']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-09-30 05:41:55,053 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:41:55,056 - logger_config - INFO - Document with ID 12 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:41:55,058 - logger_config - INFO - Document with ID 13 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:42:03,143 - logger_config - INFO - The collection 'mistakes_db' already contains data. Loading aborted. (utils.py:12)
+2024-09-30 05:42:03,277 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: He is good in math.
+Corrected Text: He is good at math.
+Involved Words: ['in', 'at']
+Vocabulary Suggestion: {'good': 'proficient', 'math': 'mathematics'}
+Mispronounced Words: ['math']
+
+ (dbmanager.py:46)
+2024-09-30 05:42:05,074 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 05:42:05,076 - logger_config - INFO - Document with ID 6a311b1e-0cdc-495f-bfda-563a6aca81f2 successfully deleted. (dbmanager.py:63)
+2024-09-30 05:42:05,077 - logger_config - INFO - Document with ID 14 successfully deleted. (dbmanager.py:63)
+2024-09-30 06:03:56,451 - logger_config - INFO - The collection 'mistakes_db' already contains data. Loading aborted. (utils.py:11)
+2024-09-30 06:03:56,703 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: She relies in her friends.
+Corrected Text: She relies on her friends.
+Involved Words: ['in', 'on']
+Vocabulary Suggestion: {'relies': 'depends', 'friends': 'companions'}
+Mispronounced Words: ['friends', 'relies']
+
+ (dbmanager.py:46)
+2024-09-30 06:04:14,672 - logger_config - INFO - The collection 'mistakes_db' already contains data. Loading aborted. (utils.py:11)
+2024-09-30 06:04:14,817 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: She relies in her friends.
+Corrected Text: She relies on her friends.
+Involved Words: ['in', 'on']
+Vocabulary Suggestion: {'relies': 'depends', 'friends': 'companions'}
+Mispronounced Words: ['friends', 'relies']
+
+ (dbmanager.py:46)
+2024-09-30 06:04:16,694 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 06:04:16,696 - logger_config - INFO - Document with ID 2dbe2c21-b58b-471f-b2a0-6f0b8e94c78e successfully deleted. (dbmanager.py:63)
+2024-09-30 06:04:16,698 - logger_config - INFO - Document with ID 15 successfully deleted. (dbmanager.py:63)
+2024-09-30 06:06:57,146 - logger_config - INFO - The collection 'mistakes_db' already contains data. Loading aborted. (utils.py:11)
+2024-09-30 06:07:56,861 - logger_config - INFO - The collection 'mistakes_db' already contains data. Loading aborted. (utils.py:11)
+2024-09-30 06:12:46,980 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 06:12:46,981 - logger_config - INFO - Data successfully loaded from data/grammar.json and inserted into the collection: mistakes_db (utils.py:18)
+2024-09-30 06:12:46,982 - logger_config - INFO - Retrieved 268 old utterances (generator.py:18)
+2024-09-30 06:12:49,213 - logger_config - INFO - Document with ID 21 successfully deleted. (dbmanager.py:63)
+2024-09-30 06:14:09,840 - logger_config - INFO - The collection 'mistakes_db' already contains data. Loading aborted. (utils.py:11)
+2024-09-30 06:14:09,841 - logger_config - INFO - Retrieved most recent entry: mistake: Using wrong verb form in simple past
+Original Text: We choose the best option yesterday.
+Corrected Text: We chose the best option yesterday.
+Involved Words: ['choose', 'chose']
+Vocabulary: {'option': 'choice', 'best': 'optimal'}
+Mispronounced Words: ['yesterday']
+ (dbmanager.py:96)
+2024-09-30 06:14:11,819 - logger_config - INFO - Document with ID 20 successfully deleted. (dbmanager.py:63)
+2024-09-30 06:14:54,198 - logger_config - INFO - The collection 'mistakes_db' already contains data. Loading aborted. (utils.py:11)
+2024-09-30 06:14:54,374 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect use of prepositions in context
+Original Text: She is married with a doctor.
+Corrected Text: She is married to a doctor.
+Involved Words: ['with', 'to']
+Vocabulary Suggestion: {'married': 'wed', 'doctor': 'physician'}
+Mispronounced Words: ['doctor']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-09-30 06:14:56,315 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-09-30 06:14:56,316 - logger_config - INFO - Document with ID 12 successfully deleted. (dbmanager.py:63)
+2024-09-30 06:14:56,318 - logger_config - INFO - Document with ID 13 successfully deleted. (dbmanager.py:63)
+2024-10-09 17:33:10,762 - logger_config - INFO - The collection 'mistakes_db' already contains data. Loading aborted. (utils.py:11)
+2024-10-09 17:33:11,015 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: He is good in math.
+Corrected Text: He is good at math.
+Involved Words: ['in', 'at']
+Vocabulary Suggestion: {'good': 'proficient', 'math': 'mathematics'}
+Mispronounced Words: ['math']
+
+ (dbmanager.py:46)
+2024-10-09 17:33:14,812 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-10-09 17:33:14,815 - logger_config - INFO - Document with ID b0fd9aab-b1da-4f93-afb4-b06f29cc6ac7 successfully deleted. (dbmanager.py:63)
+2024-10-09 17:33:14,817 - logger_config - INFO - Document with ID 14 successfully deleted. (dbmanager.py:63)
+2024-10-09 17:33:30,830 - logger_config - INFO - The collection 'mistakes_db' already contains data. Loading aborted. (utils.py:11)
+2024-10-09 17:33:30,970 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: She relies in her friends.
+Corrected Text: She relies on her friends.
+Involved Words: ['in', 'on']
+Vocabulary Suggestion: {'relies': 'depends', 'friends': 'companions'}
+Mispronounced Words: ['friends', 'relies']
+
+ (dbmanager.py:46)
+2024-10-09 17:33:32,944 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-10-09 17:33:32,946 - logger_config - INFO - Document with ID 670f3fcb-b253-48db-8c9d-647b94395a24 successfully deleted. (dbmanager.py:63)
+2024-10-09 17:33:32,948 - logger_config - INFO - Document with ID 15 successfully deleted. (dbmanager.py:63)
+2024-10-09 17:34:08,746 - logger_config - INFO - The collection 'mistakes_db' already contains data. Loading aborted. (utils.py:11)
+2024-10-09 17:34:08,887 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: They are dependent from external help.
+Corrected Text: They are dependent on external help.
+Involved Words: ['from', 'on']
+Vocabulary Suggestion: {'dependent': 'reliant', 'external': 'outside'}
+Mispronounced Words: ['external']
+
+ (dbmanager.py:46)
+2024-10-09 17:34:11,693 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-10-09 17:34:11,695 - logger_config - INFO - Document with ID 1745f17d-a39a-4522-ab30-6144539728a9 successfully deleted. (dbmanager.py:63)
+2024-10-09 17:34:11,697 - logger_config - INFO - Document with ID 16 successfully deleted. (dbmanager.py:63)
+2024-10-09 17:35:04,431 - logger_config - INFO - The collection 'mistakes_db' already contains data. Loading aborted. (utils.py:11)
+2024-10-09 17:35:04,599 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+Grammar mistake: Using wrong verb form in past participle
+Original Text: He had ate earlier.
+Corrected Text: He had eaten earlier.
+Involved Words: ['ate', 'eaten']
+Vocabulary Suggestion: {'ate': 'consumed', 'earlier': 'before'}
+Mispronounced Words: ['earlier', 'ate']
+
+ (dbmanager.py:46)
+2024-10-09 17:35:06,987 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-10-09 17:35:06,989 - logger_config - INFO - Document with ID d68e6a05-e32c-411f-a5e0-7b444f3f49de successfully deleted. (dbmanager.py:63)
+2024-10-09 17:35:06,990 - logger_config - INFO - Document with ID 18 successfully deleted. (dbmanager.py:63)
+2024-10-09 17:36:30,300 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-10-09 17:36:30,300 - logger_config - INFO - Data successfully loaded from data/grammar.json and inserted into the collection: mistakes_db (utils.py:18)
+2024-10-09 17:36:30,319 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect use of prepositions in context
+Original Text: She is married with a doctor.
+Corrected Text: She is married to a doctor.
+Involved Words: ['with', 'to']
+Vocabulary Suggestion: {'married': 'wed', 'doctor': 'physician'}
+Mispronounced Words: ['doctor']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-10-09 17:36:32,598 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-10-09 17:36:32,604 - logger_config - INFO - Document with ID 12 successfully deleted. (dbmanager.py:63)
+2024-10-09 17:36:32,606 - logger_config - INFO - Document with ID 13 successfully deleted. (dbmanager.py:63)
+2024-10-09 17:36:57,100 - logger_config - INFO - Query results for 'Incorrect preposition usage':  (dbmanager.py:46)
+2024-10-09 17:36:57,101 - logger_config - INFO - Cold start, creating exercise without any context from the database (generator.py:33)
+2024-10-09 17:36:59,690 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-10-09 17:37:31,679 - logger_config - INFO - The collection 'mistakes_db' already contains data. Loading aborted. (utils.py:11)
+2024-10-09 17:37:31,846 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+ (dbmanager.py:46)
+2024-10-09 17:37:36,713 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-10-09 17:37:36,715 - logger_config - INFO - Document with ID 409dc196-ab97-4747-999f-0e9dd22d0d3f successfully deleted. (dbmanager.py:63)
+2024-10-09 17:38:51,308 - logger_config - INFO - Query results for 'Incorrect preposition usage':  (dbmanager.py:46)
+2024-10-09 17:38:51,308 - logger_config - INFO - Cold start, creating exercise without any context from the database (generator.py:33)
+2024-10-09 17:38:53,762 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-10-09 17:41:09,335 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect preposition usage
+Original Text: I'm excited for go to the party.
+Corrected Text: I'm excited to go to the party.
+Involved Words: ['for', 'to']
+Vocabulary Suggestion: {'excited': 'thrilled', 'party': 'celebration'}
+Mispronounced Words: ['excited', 'party']
+
+ (dbmanager.py:46)
+2024-10-09 17:41:14,196 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-10-09 17:41:14,199 - logger_config - INFO - Document with ID c12de738-436f-44fb-85c3-17022c092e08 successfully deleted. (dbmanager.py:63)
+2024-10-09 17:42:30,802 - logger_config - INFO - Query results for 'Incorrect preposition usage':  (dbmanager.py:46)
+2024-10-09 17:42:30,802 - logger_config - INFO - Cold start, creating exercise without any context from the database (generator.py:33)
+2024-10-09 17:42:33,602 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-10-09 17:43:32,676 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-10-09 17:43:32,676 - logger_config - INFO - Data successfully loaded from data/grammar.json and inserted into the collection: mistakes_db (utils.py:18)
+2024-10-09 17:43:32,696 - logger_config - INFO - Query results for 'Incorrect preposition usage': Grammar mistake: Incorrect use of prepositions in context
+Original Text: She is married with a doctor.
+Corrected Text: She is married to a doctor.
+Involved Words: ['with', 'to']
+Vocabulary Suggestion: {'married': 'wed', 'doctor': 'physician'}
+Mispronounced Words: ['doctor']
+
+Grammar mistake: Incorrect use of prepositions in context
+Original Text: We are interested for the project.
+Corrected Text: We are interested in the project.
+Involved Words: ['for', 'in']
+Vocabulary Suggestion: {'interested': 'engaged', 'project': 'assignment'}
+Mispronounced Words: ['project']
+
+ (dbmanager.py:46)
+2024-10-09 17:43:35,318 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
+2024-10-09 17:43:35,321 - logger_config - INFO - Document with ID 12 successfully deleted. (dbmanager.py:63)
+2024-10-09 17:43:35,322 - logger_config - INFO - Document with ID 13 successfully deleted. (dbmanager.py:63)
+2024-10-09 18:14:09,506 - logger_config - INFO - Query results for 'Incorrect preposition usage':  (dbmanager.py:46)
+2024-10-09 18:14:09,506 - logger_config - INFO - Cold start, creating exercise without any context from the database (generator.py:33)
+2024-10-09 18:14:13,752 - logger_config - INFO - Data successfully inserted into the collection: mistakes_db (dbmanager.py:29)
